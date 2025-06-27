@@ -3,7 +3,7 @@
 **ValidatorX** is a modular plugin for Unreal Engine that automatically detects issues in Blueprints and helps maintain clean, performant, and error-free graphs.
 
 ---
-
+![Validator Preview](Documentation/preview_image.jpg)
 ## 🔍 Features
 
 - Detects **unused nodes** (e.g., disconnected variables, empty events/functions)
