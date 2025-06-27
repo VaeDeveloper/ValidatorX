@@ -63,20 +63,6 @@ To create your own validator:
 
 ---
 
-## 📂 Project Structure
-
-```
-Source/
-├── ValidatorX/
-│   ├── Private/
-│   │   ├── Validators/              <- All validation logic
-│   │   ├── BaseClasses/             <- Shared base classes
-│   │   └── Interface/               <- Toggle interfaces
-│   ├── Public/
-│   └── ValidatorX.Build.cs
-```
-
----
 
 ## 📜 License
 
