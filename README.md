@@ -36,13 +36,35 @@
 
 ---
 
+## 🛠 Installation 
+- Create 'Plugins' folder in your project root directory
+- Download appropriate version of .zip in releases
+- Extract to Plugins folder
+- Open your project, and you're done!
+
 ## 💻 Usage
 
-1. Right-click on any Blueprint asset in the Content Browser and select **Validate Asset**.
-2. Open the **Message Log** window to view any reported issues.
-3. Double-click the messages to jump directly to the problem nodes.
-4. Problematic nodes will display tooltips or optional bubble comments like `⚠ Not Used`.
+In Tools Menu open the Plugin
+  ![Validator Preview](Documentation/open_window_plugin.jpg)
 
+Enable the validator you need
+
+  ![Validator Preview](Documentation/check_validator.jpg)
+
+Simply click **Save** or **Validate Asset**.
+
+Open the Message Log window to view any reported issues.
+     
+  ![Validator Preview](Documentation/warning.jpg)
+
+Double-click the messages to jump directly to the problem nodes.
+
+  ![Validator Preview](Documentation/jump.jpg)
+
+Problematic nodes will display tooltips or optional bubble comments like `⚠ Unused Node`.
+
+  ![Validator Preview](Documentation/unused_node.jpg)
+ 
 ---
 
 ## 🧩 Integration
