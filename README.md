@@ -1,3 +1,10 @@
+
+![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-9cf)
+![C++](https://img.shields.io/badge/Language-C%2B%2B17-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-informational)
+![Blueprints](https://img.shields.io/badge/Supports-Blueprints-blueviolet)
+![Plugin](https://img.shields.io/badge/Type-UE%20Plugin-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen)
 # ValidatorX – Unreal Engine Blueprint Validation Plugin
 
 **ValidatorX** is a modular plugin for Unreal Engine that automatically detects issues in Blueprints and helps maintain clean, performant, and error-free graphs.
