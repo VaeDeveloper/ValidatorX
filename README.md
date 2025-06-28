@@ -40,6 +40,7 @@
 | **LocalGlobalNameConflictValidator** | Finds naming conflicts between local/global variables |
 | **UnboundEventDispatcherValidator** | Detects dispatchers that are never bound or called |
 | **LongFunctionValidator**        | Flags functions that are too large or complex |
+| **DeadBranchValidator**         | Detects **dead** branch nodes                  |
 
 ---
 
