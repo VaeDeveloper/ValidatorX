@@ -93,6 +93,12 @@ To create your own validator:
 
 ---
 
+## ⚠️ Project Status
+
+This project is **not final** and is under active development.  
+More validators and improvements will be added over time. Stay tuned for updates!
+
+---
 
 ## 📜 License
 
